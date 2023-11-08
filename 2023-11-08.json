@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Parsons",
+  "age": 36,
+  "address": {
+    "street": "Udita Boulevard",
+    "city": "Mozorahe",
+    "state": "IL",
+    "zip": "95884"
+  },
+  "contact": {
+    "phone": "(629) 230-9260",
+    "servicePhone": "800245874"
+  },
+  "birthday": "1979-02-05T08:01:23.085Z",
+  "ip": "103.81.154.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Pokofwib mef ifisurat olsewi nebil unademli cocjujtaj togto gaperic kolu tulro hiawkaw kokjo pul pedzuw. Mi ribu eplezbot vico wiwecukef peti vakos ew wur waj ronbaku sueguke vulcittap cakis juha cengib. Aj zen fipcake luili busuhni defoca sildemo acrurace avguwev wijogwis hafos ma egeso pari wu ju. Ol ew wighu ne kedu vimnet hisguf damef maptis sepiffa ow re tuderu. Fizasres ha puov sucif uzo kuiba kic usan kop tok cindufhe owcogze. Hon racotup ir giwim zedmucvu akodufwir benhep li getzetef simeha jecjebuz re lo juzi ejo kolowlaw vihul. Hega rum waek ta kawu nordimuce metig li ma sa samefroz eni unsu dafpedu.",
+    "bio": "Wanidlib wuzhi duuwi giute keruwedep tifkaf dewin difbiati leswud wuiwki kapmu sisuol hadop iso. Taik raglanme wizsevta ijnimep ami semu huk vawocof fak miip hifijaj wupfiz ehuvuk ho co be sisid. Hombadaj fa ubrod nadanil nerop odmaz dimhi pu ajeahi zebmu pi vupihno dejhu vuer."
+  },
+  "apiKey": "4e11a3ea66e93ce5c986fa0f3f05169ee8e5f168e4b992ef6e5441bfc64a52c5",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Fields",
+  "age": 21,
+  "address": {
+    "street": "Dopjek Pass",
+    "city": "Kikimnop",
+    "state": "KS",
+    "zip": "32537"
+  },
+  "contact": {
+    "phone": "(621) 371-6223",
+    "servicePhone": "800371891"
+  },
+  "birthday": "1988-06-08T06:10:18.400Z",
+  "ip": "252.142.153.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Je durzi ki sezew hedoldun zebu eknivmur pafru ivomewdur utouwhe huspaf zat toib. Toimino sellic ta ibsovdo zojnur jikefag ac mamo hog uju agizcij horcaz ned mecuop fuocmor ladot atrisfof icivifij. Relovuh nijes wipoz ohca aljatota niggicju anulo ra tida jinef enhedu ec tus.",
+    "bio": "Diz fu jububa va idlunsu cug eckebec ducibari zol wifuguv ekveodi ronalvup ade uzgujnus ope. Epoubpo arirepeh pesub bavgeren er agacic kiag edaozegi zodoz mocirkif da sat. Fidahiw ru umeabu obroj duduses no bus ka peswe savuhib ahudokbe hincalap ocepec wozavbi. Digavuno voos tivif eclafuf tacezpog tuke lod baj ustes orobe pob jilasid naf zazrojso ivke."
+  },
+  "apiKey": "7014a879e6488da2cfa5dc000e89f613c9f60097e2732c3d034f0ae09cca729a",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Francis Ortiz",
+  "age": 30,
+  "address": {
+    "street": "Rauzo View",
+    "city": "Pabluhuf",
+    "state": "TX",
+    "zip": "69649"
+  },
+  "contact": {
+    "phone": "(666) 794-1159",
+    "servicePhone": "800544361"
+  },
+  "birthday": "2000-03-03T03:16:55.257Z",
+  "ip": "123.165.25.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Tog fo ube mioji gasev ha hunva emugjez toziseg elzifame guwsehol na ged gulker ozigo belukca isjop. Osewu hejijcuk mezbuvem def ji megzu kinagoed kafval wuw imepi cor kinuhoher gozuh zag. Gop dehap juw boveman gera cas gel soju jebfabro civ owi ucemu vancu huzva gufhumvo ba. Homji pu buguf fugbo hovpi lolaro liflu udebactiw dihek dakeiku taphara siwebe nowhijdot famne uwehe. Amfagsaz ufaho az dac va tuw biscubuv zartem sufurnu lagebwe atemu bo wa of eho jowte ceaf.",
+    "bio": "Gusan udi gamaagi sowbauj segpu tu hufrum zuk hofve tigugef lijjav datreoha wain cebpa ror ifli bo zawe. Cojke depoki had if getoh hobgid od ok ahehormi fozorup nuhib ucbijip huata sadiw ken nohlaebe icjo. Labe osemome ekron sookwaz ifobid pigulho nahmojeg nimfob fa asoka jamocpec buzipze we cajauj eroku ojmoz vil."
+  },
+  "apiKey": "5b64c6d37e0cf59d49b728c7dd6037be35456569184b8c5944e2386b17d8003e",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}

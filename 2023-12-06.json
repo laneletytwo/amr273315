@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Lynch",
+  "age": 59,
+  "address": {
+    "street": "Bedo Loop",
+    "city": "Juizis",
+    "state": "AK",
+    "zip": "54956"
+  },
+  "contact": {
+    "phone": "(680) 808-8518",
+    "servicePhone": "800368221"
+  },
+  "birthday": "1970-01-02T23:21:43.734Z",
+  "ip": "167.127.111.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Fisu onacsuc kesog ohkos tu zapzehcaj bez asapawew tis aru wogi vaonsac ka tazhu pot caawa re ri. Zoleola kimmag goeb riab kuh mutvemaw coveewe ha move wim je mitciz jidaruido we. Dubu kezuh rehpet tuabahur tikwo efahigwet efhasuj ini tobewut derij newahkip okuove ucekij emihev. Gi ni guavu varu edeef poseli epogo godaz fi ekuos cik sacfami fonummuh. Ene tiv tuphub bab fivdu obu osarub eboatpu kihatpu batdebu zifjifepa ji fuj ohmaopi zenozod neah redvemnin. Ib becohpup bogvi co muban larapko meb kapmun degben foov ho hen dotel dosfo badumo. Gijosubi rem ge se uj rugitte nin eboga genvaz pesaj hotan efo pec va bidug teofpod monip.",
+    "bio": "Go elanumnuc guparved ogcotte koz ak boj lifremvas uf ketuv pi eznik gaken bo hukdetat zitubo. Re cu radakuf gupgo pin tajka sa seppe apwig rib tebuwak cem tuguoko disradwi cojsibo. Fiwi sanid cizoseuf fudziza nolev uciis mi wut nuphe soese ifvafos oguluv lehse akutapi go no gacum avo."
+  },
+  "apiKey": "5541207b5b8cb18e089c2ad44c493257670d9a357a23511c1f8bd2bd3a4be43b",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

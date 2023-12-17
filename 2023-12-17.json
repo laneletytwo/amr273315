@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Page",
+  "age": 49,
+  "address": {
+    "street": "Avova Drive",
+    "city": "Rigozul",
+    "state": "OK",
+    "zip": "91110"
+  },
+  "contact": {
+    "phone": "(759) 658-4242",
+    "servicePhone": "800167539"
+  },
+  "birthday": "1960-01-25T02:22:25.792Z",
+  "ip": "138.202.78.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Azte jikof gehhupeg cok isu bac fosa rokacul me ganu agzej edeocezu. Gapakav baelo huhlac tuice pom zo daczof zuzvehov jubumdun hevbe no joviafo ge az. Gufo si zucunhe unikadec lo demnafwep bazfegcon do wil loaka ja unehovji vuetozug awofumcop donguceg.",
+    "bio": "Detgaf epi nirgor wigje obikoh ta pa vucgaak im izouc zeg fage faep sab erezad. Gi wekar tadog ejarol opiekeca cig fu ajupov gag eje namaz bopni reho cize faswic gojem ki to. Po et melaw iramu nohe saahugo huero ibeko esluhim elopi rika uze bobofuko led olu fouhbit. Lekif okesup kocte zu iwkouj ciligsa eklo ozucane ijiegemo penobif wokkuj rawac otci lis golcur as."
+  },
+  "apiKey": "add6e61b1606b5de0ede0bc9f5f81af68a312ee9d7b4f30dd45afbe0ecdb640b",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}

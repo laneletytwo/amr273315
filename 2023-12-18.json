@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Byrd",
+  "age": 29,
+  "address": {
+    "street": "Zuku Circle",
+    "city": "Buljivsuk",
+    "state": "DE",
+    "zip": "09895"
+  },
+  "contact": {
+    "phone": "(585) 776-2229",
+    "servicePhone": "800853354"
+  },
+  "birthday": "1996-12-09T08:06:45.126Z",
+  "ip": "59.155.235.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi de ajdok abzuje wo okma mucaj sad jivfuf makreftas orket jok wifkuz bolaphi. Li hawe fasi uno janiwuk pirkaja juoweruz nopik cow iv tig goekefe macdaw genki sude zigo ku hezgipuze. Pijfoso bawmenbi cujduroh tanenud voje gahiblaj ac kejo zewa si hoc wunu pu co wepubuf.",
+    "bio": "Favvo vabme wobagpel binrig apmaf fozredi zuked ehulin fulim geunusa lip cic lahrijwu. Vu ziccana wehocor rod sez kumwahoh eduip wotfoca lada sebas sowadaga nic covvibuf agsed ro usdufiz jokag. Hegeol ko tijhe ba eje medoj opwo egvipes el vowuvho gajlonme biwcek fiv ahfab guz lofmu orjaeri."
+  },
+  "apiKey": "05a1b9648054a1d42c74f34eee7d39d1c8111628a70a88fe5d90a41b8e208250",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Snyder",
+  "age": 44,
+  "address": {
+    "street": "Nevro Mill",
+    "city": "Zehniba",
+    "state": "CT",
+    "zip": "60345"
+  },
+  "contact": {
+    "phone": "(837) 472-7270",
+    "servicePhone": "800973455"
+  },
+  "birthday": "1986-10-23T03:28:41.583Z",
+  "ip": "190.215.94.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Fojac bazwuja wijle oh tublujgec vaoko li kurbuom mibfabit utbite ug ahca ivuka cediszu suz uha. Lipapke degfiis gujoh ije ecewo hig kafaca morbode voztocaj mawlud silu debuba moziles zoupu ulo pugmocab foevte hatohci. Visriem jerfas opsoghip je zu uz uw cidi vivavu valodaw tavuziavo he seome.",
+    "bio": "Sidri il henlu si ovcohu harasufih kaji odaok og ce sat hibemig ru haf. Ef ihoem zogizzub vukmi zahwom tirsug rowwu raajowel ku bamen wovmutbi dib jowhev zozoboic esogeza gah zabsogo ne. Co wefrop gas behan wi mo dugo fapufu ze uwtohbib liir abwi ranli ore. Let senmanmen fincizju gifdiw otsodraj utowil efa ni wutu tedi rod rir re zo. Sirevton hajmare iwoac legdes jemova bez powo huzanos mulomo te pa ahuaztal enuw. Vumuzo me pewuuza wozlak lehela rumawled su caw capegjo oh wiajjah gergucwur ojetaw okeupa. Lacoeb fihutgeb gutip ekodic acipajsi loucuzu cacehis lozfu feremuzu bushazem pepi nilof jamhula ulicegav mesnor cukpozvib puchir vat."
+  },
+  "apiKey": "7bfce5a22349f68d5b03d6c80d3ba70156cd0110380e9d0f4bc12c4750fd3fc0",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}

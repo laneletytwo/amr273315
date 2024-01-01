@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Campbell",
+  "age": 19,
+  "address": {
+    "street": "Setbu Court",
+    "city": "Fewwakse",
+    "state": "TX",
+    "zip": "58109"
+  },
+  "contact": {
+    "phone": "(479) 465-7834",
+    "servicePhone": "800915428"
+  },
+  "birthday": "1968-01-02T23:45:37.134Z",
+  "ip": "181.166.141.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Actorpi kattit lemcaclo un ij gujri gele enili caw zihebzo teswal utojam un fuos owi va. Ranufep oro vajo nez jatsipbis puk vi pol ge vibmime gelacigu kuditja gaebo. Bohlo aba naomide pa woduvfe wosak ipeozido upozo fefulupiw dekca emi ugmuj zi vaigfu. Ri de muwopvo fi onifude kasuko avatof vor awdu wor up oc hetca bosando jom mo.",
+    "bio": "Ewbu sogvel ascadi paibubo kuwe kuvivjo akci huhehoh netgeco gufvu cawmozi tukuf ge. Zabmin go pu budconon luwgovla ahpi vikilsi rek uclumij setecpe jipowvof hi pefridigo ubobeg pel ratoniab juaho bilad. Arotoj ferva rab jahec verbe ejo ana dur ralfec kophu ja degip zepekfi dakcip maada be ujta macmu. Cifkav ava go golepdok vat vojefcof umjocaj sil jihpesva vinvewfa iro duf maf fudger wunduluk. Suzikodup alu jufil uzomojner me piela urtef ujza kic gaovavev be huwaug rerohuha ro rod iwaborba."
+  },
+  "apiKey": "b4baf73d9b4fee2c6a6e401907737341cbd4da501f0ad06700f3e9e2950d31ae",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}

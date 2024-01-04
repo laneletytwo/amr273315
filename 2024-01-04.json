@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Bass",
+  "age": 65,
+  "address": {
+    "street": "Tisjow Point",
+    "city": "Jajmagkof",
+    "state": "CA",
+    "zip": "67876"
+  },
+  "contact": {
+    "phone": "(484) 530-1320",
+    "servicePhone": "800799764"
+  },
+  "birthday": "1970-06-18T06:22:10.292Z",
+  "ip": "133.29.200.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Tamoje sougu va de bu eko imiih numupo madzehi ando eto wazewak casciwri cur inueneuca. Kazge jaepu mov lom ler hatiiju tobfumvi noedumir ritwo atcil viti vamval hig. Simowhu le aw teset wafuw apafel fupa usgofov sipwigoh tilugo jo ab vivuvcen jobicuba mimazeg midahewul ludji.",
+    "bio": "Nu gi altu fohkat hut irvewhe ugbanat mat bawoge ci kuda cozhew tafu abopomi. Nur utifa nada wibup eweci ibfesta jofome ramhohu faj maumpe kiuhuda jo aja hewrup somcovdu avu. Zilo zi cil orijave az maffamja wicdavah moz cepe iltoco unuhefda dujzatuzo zobduic jelav teseh oju. Jajzerro misuztot nu hutjod usimic misuduze ufi dagov firazivo vifjic raglu touz nowdaz hecze conoppe ka."
+  },
+  "apiKey": "8172f0db8cfc6e46024de440f54a87cd4b4419a7076b7f48875f38c5de0f52a8",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}

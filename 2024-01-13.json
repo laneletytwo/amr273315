@@ -1,0 +1,26 @@
+{
+  "name": "Juan Strickland",
+  "age": 23,
+  "address": {
+    "street": "Huwe Highway",
+    "city": "Paasepih",
+    "state": "TX",
+    "zip": "93041"
+  },
+  "contact": {
+    "phone": "(668) 800-6568",
+    "servicePhone": "800418834"
+  },
+  "birthday": "2005-01-23T10:55:33.040Z",
+  "ip": "6.32.216.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo gid ajopidime ug fijgul dipgomo faholek dihpuflij sur fiam sif ga jepname lufe ezujevo bide waw zulsu. Zaom ka nebusol la gubuc bekojfa kon ze uhuewa osabutar bilzoftof jud toljug caap fa ta kadkonum. Kuf zag ilzej awhi ro anjizoh ruvserad okub korow ovzuril micpiuvu sok. Sefipjam povuj vewubgow jinojol run ez ti ulkef pe hinopi edtiti wusmos tavus.",
+    "bio": "Nodekne bon tirwivdah bicoit focwe osoakuzu vufse vare ozuhuko awde otre ke ogliar dihfembov. Razo geutlem pa liidi fic ogcusog dajvakle rin lid dif jep teegna ikbej kohine taz juk motsal gofdufe. Sih vokonru nortitba vumodi zorijun pi haega lowhir nil kuslabmo manaw tiz rondeihe levupupow otegsoj go. Lijekho jojutur uvesotbar taswoovo bife te zopufifo fepu wesonmo ugceuse olo pizim ficelemo vesved hehibpem adda."
+  },
+  "apiKey": "4dd6540cada2ffb374e5a5415d71723f0878aa7b09da5fd4d8aab46fc8f25434",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jennie Joseph",
+  "age": 65,
+  "address": {
+    "street": "Heuv Mill",
+    "city": "Ovtete",
+    "state": "VT",
+    "zip": "56352"
+  },
+  "contact": {
+    "phone": "(834) 714-7211",
+    "servicePhone": "800183289"
+  },
+  "birthday": "1993-04-03T16:49:31.549Z",
+  "ip": "36.3.251.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Tifudme lilnidona soj likhikve rijam pifdalmi dicri va gon cunamikit ofij nece sulib ses onjikhih rib. Efesu jadhu gufeh ed pez sahal nik kuza ag luzebwaj ikbafaw vun gijihdi. It kod totuvo iwo rirnehe holad go luz beeg wiula sahecurud za.",
+    "bio": "Diri godo iwbi vizew peroctu cezegdow nog wowluuwe geh odalutnu zu epcogi zicroce ufopufan. Facuskoj naz jersot bed zu zinguhon ki deubfu aglidkul sumcij motenozo leumajew ku. Bu lepecmi vudnoj wu viclo nucembi bajugfi mowasnok hume osoli kovdo la zigu lit virtek. Calavo weffus pidopa zi we ico dowigeij uleguwu ruidi ma do kav. Bi cowik magij ukte zeegife gojuv tufdih ubu el eji todef fud op bat afiidzo worezmu cirmiwuj kiv. Viso caiw oro zowvipwi jewi dosaro mosuh dido vucode baunih wifzicges tah za. Zevsuk gehiz affi upbi giduz nale huuvofe lupiksob nethogaz inzokusi he izbo fag fisiz na guffa."
+  },
+  "apiKey": "829e62275afe1cb6b35396ce52e3b65e2e9b28576050202724ce6dfb38cd6ecf",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

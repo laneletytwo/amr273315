@@ -1,0 +1,26 @@
+{
+  "name": "Jay Graham",
+  "age": 65,
+  "address": {
+    "street": "Govap Road",
+    "city": "Wasmoja",
+    "state": "MO",
+    "zip": "67795"
+  },
+  "contact": {
+    "phone": "(718) 795-8778",
+    "servicePhone": "800918224"
+  },
+  "birthday": "2005-06-30T23:29:49.097Z",
+  "ip": "66.52.105.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Tibjiuv zuug ezoepodi irabja sidgog goawe efi bo ba jimhamlo bakad asadu jentu jermapafa uwa pasit tarmimah ce. Da vodifam no vigde kab nu hupi zib uzikezu bukhijba coc bagfa man firgecfok irmoeg alowazsu urrebuk. Idfuihi fon vufnap ameva ka urluw hicu rimenuk vuslik udnap daeb somfoted ti et.",
+    "bio": "Ilu egihecet cadab vaf hojbuted mat jinipfit za amizama obe kewawih ke newwoz infuad. Fofva fokdekod ifu pi ham bavuh jifviez zo nitfowic jujepni mupel po iznodhaz saaz. Itialah sozome musfubno fom emsevav rouf gumdubha muj do got zeznes ze oketeid okupfu be jus ja gaeri."
+  },
+  "apiKey": "990e94205f881237c8f74d0459341750640f7ecd292e815ab703ce8ce7073ff9",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}

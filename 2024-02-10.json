@@ -1,0 +1,26 @@
+{
+  "name": "Glen Haynes",
+  "age": 48,
+  "address": {
+    "street": "Dadco Plaza",
+    "city": "Toefpoj",
+    "state": "OR",
+    "zip": "70943"
+  },
+  "contact": {
+    "phone": "(362) 745-2304",
+    "servicePhone": "800594828"
+  },
+  "birthday": "1967-06-16T14:06:48.767Z",
+  "ip": "118.221.252.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Mulim cab guutiza uvi delinesi bat vonhujli uhake ur gejav hi bo wotpid. Icaep rofo upzare wo zekpaeki zalvofaj reihiber sig kojpi zuil ewa pun dafebciz. Zow egcokob udazuvuz nuti nomapi luz he begu li levmebop ve facagfuc awru po.",
+    "bio": "Cezsemida novmoc uvu fe cohijod tapbedew tekgeves uvbeseh upevu on eka ekewuta fopic poggeub refi tontef. Iw fi geumurov zowicko umo eckov vofu zilral zoemulak redi nusuda jozi wut. Vosgius dibgucjan zo adurosto si durul vaamko mose jusir divu niloohu po hotow ojaitan zim. Neb hi olereb efias ehujov betotud dub jihe jifalen taspire casuse imeipi sime fewe wif."
+  },
+  "apiKey": "df8da585aab3bc41f3f87613fcf513f06fe368e8e23d821e0f430d83fee612f4",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

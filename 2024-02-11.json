@@ -1,0 +1,26 @@
+{
+  "name": "Christopher McGee",
+  "age": 63,
+  "address": {
+    "street": "Pupu Mill",
+    "city": "Gobiaj",
+    "state": "OH",
+    "zip": "30323"
+  },
+  "contact": {
+    "phone": "(688) 539-1606",
+    "servicePhone": "800571646"
+  },
+  "birthday": "2005-12-19T14:40:53.241Z",
+  "ip": "246.39.21.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Cizuaga unramu ril oweawba femsod julnokev pov tivuhi ulsed tah goj luzivot. Ra najen iwzoz jukpum galleh jeuca olaasi deklari jub walwo ajucughod ve. Nasuca ohheju infimuf livjozoc lakuv ep du icual keza zahhul nuvilge dofa pi afevuced lagrif. Tiagwak ezero evjanrep muge zupooj bera femo jukrovze novic gufme ugikesaj tihiiwo tiskivus ifa. Kacbew bum so kupvedvok ze ibikataze juzfivotu bula vujnuswep cagke sate vebgose zefakhap caj nignabtal. Wacub ko gibdip ani obavufbi leze wunas eku zok tehomut ce utsosil muwguj. Katfe miv bes kefduhemi kiucueli jedub ezuunvu bukowor ra nambet moscuahe ref dadaoz vu dektam pekcor ba of.",
+    "bio": "Nonebmo edza nobamji di guk nubsal gitij ledergok kavcunha nikzofhi nu forzopsu raboeku. Piv olalogmet dodo jec haimne mah gedmus ewjatic ibi witson za cigpoj so. Gucac lahmobhid loggazji mecbehif cejodhuv pomgovod hasi moz dopi uz gioda zimodaz da vuhara pisejo. Pupha fealru debecdok mihciw nomefu rupbicec ifulela osepongof bi jas iva uvafumbe nerma ri koc biktad. Sojsumi giz gelogej mebkur lelpi litalso laklob upagog aweseho vokij wutcakmu himev hugevsah ga wib."
+  },
+  "apiKey": "c50ff2fac7e46af63e02e371e2539afa054e956d141dbc0b2f62ae623aa69bc2",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Baker",
+  "age": 38,
+  "address": {
+    "street": "Domsu Turnpike",
+    "city": "Uleogre",
+    "state": "WY",
+    "zip": "85346"
+  },
+  "contact": {
+    "phone": "(289) 437-6881",
+    "servicePhone": "800656542"
+  },
+  "birthday": "1996-10-11T23:54:50.681Z",
+  "ip": "82.79.169.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Hetuljip efo kutcodi gumuvbov daz niforaek fo de vaz zisazi cukene ru isru. Fahujir up canhibdu kutib reon huv dan nopimi pidar ezcoaki idmaka sohavid. Ahomovu jikmuslu pe focidepi fidsemip hegife kam fuuvo ginpauk jifkoh ikiimzid urarulfu gigivjuc wib otiwesof va welmiera sulte.",
+    "bio": "Rikak wahov det enpefu eputar metkowhol murwol wu legsel nut ne gifdaf ekidokpo feorato. Bas vosjap lifrosno pigvar liagepaj sidcaf aleova bobun figawi inifo sajuf pigijec pil. Idu heiw silje efuicoro tafzefud ifigotlew bo siwi zo utroka jiheeto ba pe kit."
+  },
+  "apiKey": "191f0f612197103600dda2c9d10715e87d9c957f686938db275c80987b786cbf",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}

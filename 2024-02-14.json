@@ -1,0 +1,26 @@
+{
+  "name": "Robert Daniels",
+  "age": 26,
+  "address": {
+    "street": "Bezat Court",
+    "city": "Sikrakeb",
+    "state": "DC",
+    "zip": "11888"
+  },
+  "contact": {
+    "phone": "(747) 505-5528",
+    "servicePhone": "800826733"
+  },
+  "birthday": "1960-10-09T03:01:37.491Z",
+  "ip": "164.30.171.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne zo widarete fanijci kuf bodcak habnut sihum memeanu likok fimonef vibgawak ekoifo jo cihidmi. Wuhej ga co ehino aha citeh vaf le omocipi ulauleedu lacve giten zadzad ro vu nuazgef. Nidtomub guuri hal zabmole fidu ca mo simsaav fujip zidur giv wa.",
+    "bio": "He cej hav bumgod ogbecom if obabol jensam satromaf loc ma filivekal sestapkir gegecof fu pacelvi. Uscehki do juguagu jof oswugti ateiz uwocuf gojibi herkenu jicug komobifo nut etubev cohosbe zuwfam ariju. Hokhikli gufotte fofumufok ovaivu kug navufba umuirwuz ka ku ruwmopni febcevhiz pizgapo sef."
+  },
+  "apiKey": "e62dfa1fa0aefead8aa8ac0d61c745ec7499a12f6bc8e3564e12b7349c0e209a",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

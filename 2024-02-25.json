@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Stevenson",
+  "age": 21,
+  "address": {
+    "street": "Pozlif Place",
+    "city": "Paelibu",
+    "state": "CO",
+    "zip": "74756"
+  },
+  "contact": {
+    "phone": "(477) 417-8239",
+    "servicePhone": "800219582"
+  },
+  "birthday": "1961-12-11T23:09:32.432Z",
+  "ip": "20.239.33.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Awi en ab levrokjik fis piluko su jerav agmatuv sobduz fiwos vip ojo duefolij sisahdu. Pot huv capsuhsa nij sebboca jerzuruk kabzes sincuntuh virmiof tefvor erurada jumifed hazrud deas wuijfur. Aw wopluh zukre ozumi pelmabil mo zan ze teh ifeiwa tilegsi poadu.",
+    "bio": "Upowigde bas osinulnig ger lublin igsegbok jukashiw so geelze sewiaga ratulow ilukin. Ebo okoada alaajri fub zerguc kaanfol par nogji teavaene wih ilunihene jojsunna sa. Tomsaciz ti secgaj kimdopka zog ohvime deikefi pivoljad to pipbucur limciwab bag."
+  },
+  "apiKey": "18e4b06f3548383f4adf2341cbf9288e6eb2c9e09203628ac97f36f8c45ce37b",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}

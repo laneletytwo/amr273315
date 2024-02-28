@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Thomas",
+  "age": 57,
+  "address": {
+    "street": "Pekasa Glen",
+    "city": "Fuzzorfip",
+    "state": "SC",
+    "zip": "73462"
+  },
+  "contact": {
+    "phone": "(389) 977-1547",
+    "servicePhone": "800557853"
+  },
+  "birthday": "1999-11-04T22:55:22.294Z",
+  "ip": "198.242.181.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Rul kesiw hupnaeti vonhoda ac hocalag uw pup gugeufi iwepanbew pehompo la wutac ta gotcelel homdesli kaz fizucahoh. Pilnu koj giwjofu azlael dob huce ekejihfa mavkop nir guwnabge zij mocvivej. Zon fu kugom asjeko lioma wuermu jicmot ofega hadgiju pedi eno udvib.",
+    "bio": "Samzot bis marevze cibpuskep abeacbi kub ziitrij fesuru vu larmatid wo dancagec lebid licralol kolov mapec. Wazzo okakap didko ane pav sulmun vuwzukun suevogud berkito ceh liz ta kosajane ahbe ib julozo majebgod. Tonivir jabrut wug modfep adivop moched ugna munbadi toekad karetigo oczow cake jujsofru ta nivijuga fure aghi ma."
+  },
+  "apiKey": "dc112bfad9dd700f7a49fc49f0b697c745392582533a37f9ca66720fddd8cd4c",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}

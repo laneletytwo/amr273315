@@ -1,0 +1,26 @@
+{
+  "name": "Ethel McCarthy",
+  "age": 42,
+  "address": {
+    "street": "Pispin Boulevard",
+    "city": "Teukazu",
+    "state": "DE",
+    "zip": "78943"
+  },
+  "contact": {
+    "phone": "(211) 432-9670",
+    "servicePhone": "800949334"
+  },
+  "birthday": "1972-11-25T07:56:56.130Z",
+  "ip": "239.43.105.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru odi ib baz pu kugkuvuv zirazo od ucu ul du dezarat nibsado zuku sa muk fuiri tipadabuk. Ji ipieciof cit epoded sawwic cijusude sapijpa ta pe milimvo sun gi za du nusesvi. Eco fuwgofig omku li ufmi gukujov ubi utoreguh vecvu maskiga je difo feru.",
+    "bio": "At ene evotergi fi foogca senwuvu eriove lapda few eko ke seef umowocuk efcozep negzuvih non mig. Jo semig uw wanoze joj bipugo ciorole da jagep hi mat oca col ecrudtak. Ticvac anopuk tem nic omovebip vipjepa lemekvol lidu sen iz angi fitvit. Nobowizo uj titse wus pojvok ko vifi obaughaj gisew asujov ec weake sokda osotej."
+  },
+  "apiKey": "05cf3cbf888c32985c719966d9a6f2442f1ac5bf3b6c90a9a3aa31ea41b90541",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}

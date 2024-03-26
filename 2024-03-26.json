@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Wagner",
+  "age": 24,
+  "address": {
+    "street": "Rokliv Key",
+    "city": "Elsugev",
+    "state": "AZ",
+    "zip": "38944"
+  },
+  "contact": {
+    "phone": "(924) 408-1293",
+    "servicePhone": "800964355"
+  },
+  "birthday": "1991-12-04T22:52:05.416Z",
+  "ip": "225.182.155.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Agitu soj hoh wachesa newe jeh osvamal tajjoturo uwo kaz hoswuwev alcakfu. Kejid wev ojije bilin peksel us pubvo emli upo vuf ji mihdakos. Divgun hivbog fe enunajef becfodru tedof jissufdif fohtetva sodivnut pacnob mafsiif od. Ek hep ti zor kitlu cuw pickuf bid geluhodal ni gifut guwaro vowule ecejuf sek ivaeci duazo. Kojvad cuig gobitez nabo ti er tacbodpi ki ga cu kocmiw egeofgik jacmunhe jid tubpot.",
+    "bio": "Hiwlakhiw imosdi dopo mebutut pubhid hakpunlin fipwuw ujuzeeb pahahda adupohup ewro ze rezevse ucuke. Kur pobef pibwudrif nip icujigliw muwavilo fait zammigin jicag ronve haew tut ne. Pezrewpem ugvuvaf gitoze mubfu lo ha bujkica cas nojolpav kocowaz pum ufdif eha luihomol fo echesu dof hiwlace. Huggodo da vamem guscu fu owtirut vuv ot nefzel saiho rerwu dohze dete kugek."
+  },
+  "apiKey": "b7b97bc9f91b4f5d1eb4cabc79649d9fba1368adf2073a25e4717913977c6bc4",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}

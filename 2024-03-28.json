@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Robbins",
+  "age": 48,
+  "address": {
+    "street": "Galbo Drive",
+    "city": "Rubonodu",
+    "state": "ID",
+    "zip": "01968"
+  },
+  "contact": {
+    "phone": "(483) 571-7771",
+    "servicePhone": "800385244"
+  },
+  "birthday": "1992-03-04T06:16:22.892Z",
+  "ip": "156.53.99.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Ned lu mavibna uzu renfalvuk goh vubsihu nozuset otneh vovi zejih ut te ivlouv boh cucwew. Ezip deeta rufpe ewhema fikabged is lessafim ek zuvahuom futafal fu kitof. Gufmedsub ohokezhi ahihuban utrivo riszoz tunzut givepi lip ohecaloz sonat sum kifwumor sohebbov odevti. Vipme dugokmi geh meb uclujud nemormej nooje fi si tosdul hufsagbob si umacocah sime seb vuvwu turpoasi. Wa ge me paahe buvivbe kud odoafoom geapbo ji luafi ganvanawo ga neiso kofeg ralage. Vuocta dawefah uh besaki ri epwi ibowi cidu obienieh dakuhha nav zibedume. Iki noglawem lehufouji eb waljuw koci dekdu miaz we ok itlogtup ravjakko idhiz zupko vejgoc.",
+    "bio": "Vuide bazaguso nibug uvbud cahbuneh mufpak itvu bihecaja savpewnug pavwo movwij wefabe re. Ohdehuz ejruk aggaij tuklahlaj ribbadag po fusla kohmano urfuj vahmunet ro dih pi sos vujdiz rirumi fu julrev. Cojmaf ufeniz ab mit fepaj ahfum he to za jof dorcac wideci jardaf fecfat ra em optiri azokiti."
+  },
+  "apiKey": "9af1c5f482ba76c0790aef26840fcf591e16374a66c8a222ecb9ae0678fb9563",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}

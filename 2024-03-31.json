@@ -1,0 +1,26 @@
+{
+  "name": "Joe Swanson",
+  "age": 27,
+  "address": {
+    "street": "Muhde Center",
+    "city": "Odvija",
+    "state": "NM",
+    "zip": "84927"
+  },
+  "contact": {
+    "phone": "(928) 970-5186",
+    "servicePhone": "800742616"
+  },
+  "birthday": "2005-12-31T08:18:28.574Z",
+  "ip": "230.154.139.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Lod cumek biddute bec ecagimjut zispe du kobvihvu kaz vo wafwulki muwedsuk. Upitafi tivvitre cuwoduno binponpa pu ifutugin loig ug pibemcus gaguk gaz ca kidketo. Nalbonos ve bon be kogruv jezupo vu tivikki oh ivti pugu fusrap ib.",
+    "bio": "Habjip sahhenzoh za fifveh temud sif judsos zu kufmep de rureczi zaf suwzarli ovsipez ojgone sahtupo. Izkogmaz wi of jozi ovobta nutlubzi elisinu gekdiwki ku izagcaz zihentod hadwuwo zonicoodo zed rufkikere nufwu nu. Jifdosel ipoaza hiz vijokueti kiz fas me ipdizej ruohusap ocuwag da zuhpe somormut. Lazpigug owitovu nirere tov kes lowjar weiga pij fok mevamzin cipcejbop mahose luz lor lu rugro nameage wu. Raudarag kesuhwa kupiv oneuv evein wibrug to bi otighoj waworon hu si. Sotbiw kobilwi boholoafe bigdoti aplozumi kewiim ewacogi doza ju fijhangaj gablur bug karhugvo awaha pil. Hagmav mit kigsah ke nut hid sagnul rigzoh webewgep wo bak rosduz."
+  },
+  "apiKey": "06b929fb7649d3b311f361f3e5ed4d9b7ac9cb3fc923d1613fb8cbcb4fba6971",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
